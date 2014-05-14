@@ -1,7 +1,6 @@
 ####Project: Third Person Controller with First Person Attached Camera
-**Coder: Dani Moss**
 
-**Tutorial used: Grim Grin Gaming: Character Controller Movement and Camera - Unity 3D with C# Programming**
+**Coder: Dani Moss****Tutorial used: Grim Grin Gaming: Character Controller Movement and Camera - Unity 3D with C# Programming**
 
 **Tutorial URI: http://youtu.be/vPOKZ62SAiI**
 
